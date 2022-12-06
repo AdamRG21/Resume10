@@ -11,7 +11,7 @@ header {
   text-align: center;
   background-color: #431953;
   color: #ECD2B0;
-  padding: 20px;
+  flex:auto;
 }
 
 footer {
@@ -39,7 +39,10 @@ a {
   font-size: large;
 }
 
-
+.li {
+  font-size:medium;
+  font-family:Verdana, Geneva, Tahoma, sans-serif
+}
 
 
 #profile {
